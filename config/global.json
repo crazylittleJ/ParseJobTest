@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "DB_Timer": {
+            "applicationId": "jvcqQA5vs0AYP0hxb9UYq1YtNrzJiL3mk9WpHZVd", 
+            "masterKey": "GBCvwqAg2vFd34bkBfIOdgyxcWp03U785xrnA8dj"
+        }, 
+        "_default": {
+            "link": "DB_Timer"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.17"
+    }
+}
